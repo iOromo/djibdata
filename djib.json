@@ -15,13 +15,13 @@
   },
   
   "bar_months":[
-  "jan",
-  "feb",
-  "mar",
-  "apr",
-  "may",
-  "jun",
-  "jul"
+  "JAN",
+  "FÉV",
+  "MAR",
+  "AVR",
+  "MAI",
+  "JUIN",
+  "JUIL"
 ],
   
   "bar_cases":[
