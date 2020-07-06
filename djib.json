@@ -17,10 +17,10 @@
   "bar_months":[
   "jan",
   "feb",
-  "mar"
+  "mar",
   "apr",
   "may",
-  "jun"
+  "jun",
   "jul"
 ],
   
@@ -47,11 +47,11 @@
    "bar_death":[
     0,
     0,
-    0
+    0,
     2,
     24,
     54,
-    55,
+    55
   ]
   
 }
