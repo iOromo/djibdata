@@ -1,0 +1,55 @@
+{
+  "success": true,
+  
+  "counter": {
+    "pending": 100,
+    "rejected": 200,
+    "completed": 300,
+    "expired": 400,
+    "total": 3200
+  },
+	
+  "oromo_statistics": {
+    "oromo_death": 239,
+    "oromo_disappeared": 10,000,
+    "oromo_arrested": 3,500
+  },
+
+  "pie_statistics": {
+    "oromo_death": 239,
+    "covid_death": 120
+  },
+
+    "bar_days":[
+      "7/1/20",
+      "7/2/20",
+      "7/3/20",
+      "7/4/20",
+      "7/5/20",
+      "7/6/20",
+      "7/7/20",
+      "7/8/20"
+   ],
+
+    "covid_deaths":[
+      103,
+      103,
+      103,
+      103,
+      103,
+      103,
+      103,
+      120
+   ],
+
+    "oromo_death":[
+      80,
+      91,
+      120,
+      145,
+      166,
+      189,
+      210,
+      239
+    ],
+}
