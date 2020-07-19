@@ -9,8 +9,8 @@
     "total": 3200
   },
   "pie_statistics": {
-    "cases": 4968,
-    "recovered": 4689,
+    "cases": 5003,
+    "recovered": 4809,
     "death": 56
   },
   
@@ -31,7 +31,7 @@
     1089,
     3354,
     4682,
-    4968
+    5003
   ],
   
    "bar_recovered":[
@@ -41,7 +41,7 @@
     642,
     1504,
     4524,
-    4689
+    4809
   ],
   
    "bar_death":[
