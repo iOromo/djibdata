@@ -9,9 +9,9 @@
     "total": 3200
   },
   "pie_statistics": {
-    "cases": 5059,
-    "recovered": 4977,
-    "death": 58
+    "cases": 5358,
+    "recovered": 5167,
+    "death": 59
   },
   
   "bar_months":[
@@ -21,7 +21,9 @@
   "AVR",
   "MAI",
   "JUIN",
-  "JUIL"
+  "JUIL",
+  "AOUT"
+
 ],
   
   "bar_cases":[
@@ -31,7 +33,8 @@
     1089,
     3354,
     4682,
-    5059
+    5084,
+    5358
   ],
   
    "bar_recovered":[
@@ -41,7 +44,8 @@
     642,
     1504,
     4524,
-    4977
+    4999,
+    5167
   ],
   
    "bar_death":[
@@ -51,7 +55,8 @@
     2,
     24,
     54,
-    58
+    58,
+    59
   ]
   
 }
