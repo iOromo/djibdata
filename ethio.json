@@ -9,13 +9,13 @@
     "total": 3200
   },	
   "oromo_statistics": {
-    "oromo_death": 1930,
-    "oromo_disappeared": 15600,
-    "oromo_arrested": 4500
+    "oromo_death": 2130,
+    "oromo_disappeared": 7500,
+    "oromo_arrested": 32000
   },
   "pie_statistics": {
-    "oromo_death": 1930,
-    "covid_death": 479
+    "oromo_death": 2130,
+    "covid_death": 1230
   },
     "bar_days":[
       "Jul 1",
@@ -61,7 +61,8 @@
       "Aug 10",
       "Aug 11",
       "Aug 12",
-      "Aug 13"
+      "Aug 13",
+      "Oct 4"
 
 
    ],
@@ -108,7 +109,8 @@
       420,
       440,
       463,
-      479
+      479,
+      1230
 
    ],
     "oromo_death":[
@@ -154,7 +156,8 @@
       1650,
       1730,
       1870,
-      1930
+      1930,
+      2130
 
     ]
 }
