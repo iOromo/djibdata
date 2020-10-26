@@ -1,0 +1,70 @@
+{
+  "success": true,
+  
+  "counter": {
+    "pending": 100,
+    "rejected": 200,
+    "completed": 300,
+    "expired": 400,
+    "total": 3200
+  },
+  "pie_statistics": {
+    "cases": 5399,
+    "recovered": 5333,
+    "death": 61
+  },
+  
+  "bar_months":[
+  "JAN",
+  "FEB",
+  "MAR",
+  "APR",
+  "MAY",
+  "JUN",
+  "JUL",
+  "AUG",
+  "SEP",
+  "OCT"
+
+],
+  
+  "bar_cases":[
+    0,
+    0,
+    26,
+    131,
+    1172,
+    5846,
+    17530,
+    52131,
+    75368,
+    93343
+  ],
+  
+   "bar_recovered":[
+    0,
+    0,
+    2,
+    59,
+    209,
+    2430,
+    6950,
+    18994,
+    31204,
+    47543
+  ],
+  
+   "bar_death":[
+    0,
+    0,
+    0,
+    3,
+    11,
+    103,
+    274,
+    809,
+    1198,
+    1426
+  ]
+  
+}
